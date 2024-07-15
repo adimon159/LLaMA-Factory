@@ -1,4 +1,6 @@
-{
+{"dataset":{"hf_hub_url":"aditi123AA/data","colunms":{"prompt":"instruction",
+"query":"input","response":"output"}},
+  
   "identity": {
     "file_name": "identity.json"
   },
